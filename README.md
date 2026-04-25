@@ -1,5 +1,7 @@
 # Stadium AI Dashboard 🏟️
 
+**🌍 Live Demo:** [https://stadium-sync-734405091711.us-central1.run.app/](https://stadium-sync-734405091711.us-central1.run.app/)
+
 A high-end, real-time AI dashboard for optimizing fan journeys, crowd density, and safety inside a stadium. Features a sleek, modern Light Theme UI built with React, Vite, and Google Gemini API integration.
 
 ## ✨ Features
