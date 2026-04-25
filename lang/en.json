@@ -1,0 +1,23 @@
+{
+  "nav.dashboard": "Dashboard",
+  "nav.navigate": "Navigate",
+  "nav.assistant": "Assistant",
+  "assistant.title": "STADIUM ASSISTANT — Ask anything about the venue",
+  "assistant.welcome": "Welcome. I can help with directions, queue times, food options, accessibility, and lost & found information.",
+  "assistant.inputPlaceholder": "Ask: Where's the nearest restroom? What's the shortest queue? Best food near Block E?",
+  "assistant.send": "Send ➤",
+  "assistant.saveKey": "Save API Key",
+  "assistant.keySaved": "API key saved",
+  "assistant.quick.shortestQueue": "Shortest food queue?",
+  "assistant.quick.bestExit": "Best exit gate?",
+  "assistant.quick.firstAid": "First aid location?",
+  "assistant.quick.parking": "Parking zones?",
+  "assistant.quickPrompt.shortestQueue": "Shortest food queue right now?",
+  "assistant.quickPrompt.bestExit": "Which gate has least crowd to exit?",
+  "assistant.quickPrompt.firstAid": "Where is the first aid station?",
+  "assistant.quickPrompt.parking": "Is there parking available? Which zone is closest?",
+  "assistant.typing": "Thinking...",
+  "assistant.noKey": "Gemini API key missing. Save key first.",
+  "assistant.retry": "Sorry, I could not get a response. Please try again.",
+  "assistant.unavailable": "Service unavailable. Please check connectivity and try again."
+}

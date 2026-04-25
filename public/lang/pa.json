@@ -1,0 +1,18 @@
+{
+  "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+  "navigate": "ਨੈਵੀਗੇਟ",
+  "assistant": "ਸਹਾਇਕ",
+  "title": "ਸਟੇਡੀਅਮ ਓਪਰੇਸ਼ਨਸ ਹੱਬ",
+  "subtitle": "AI ਚਲਿਤ ਵੈਨਿਊ ਇੰਟੈਲੀਜੈਂਸ",
+  "live": "ਲਾਈਵ",
+  "densityMap": "ਲਾਈਵ ਭੀੜ ਘਣਤਾ ਨਕਸ਼ਾ",
+  "occupancy": "ਵੈਨਿਊ ਭਰਾਵਟ",
+  "queueTimes": "ਰੀਅਲ-ਟਾਈਮ ਕਤਾਰ ਸਮਾਂ",
+  "alerts": "ਸਕ੍ਰਿਆ ਅਲਰਟ",
+  "routePlanner": "ਸਮਾਰਟ ਰੂਟ ਪਲਾਨਰ",
+  "chatTitle": "ਸਟੇਡੀਅਮ ਸਹਾਇਕ",
+  "chatPlaceholder": "ਪੁੱਛੋ: ਨੇੜਲਾ ਵਾਸ਼ਰੂਮ, ਤੇਜ਼ ਨਿਕਾਸ ਗੇਟ...",
+  "send": "ਭੇਜੋ",
+  "saveKey": "Gemini Key ਸੇਵ ਕਰੋ",
+  "typing": "ਸੋਚ ਰਿਹਾ ਹੈ..."
+}

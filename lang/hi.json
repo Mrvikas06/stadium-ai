@@ -1,0 +1,23 @@
+{
+  "nav.dashboard": "डैशबोर्ड",
+  "nav.navigate": "नेविगेट",
+  "nav.assistant": "असिस्टेंट",
+  "assistant.title": "स्टेडियम असिस्टेंट — वेन्यू से जुड़ा कुछ भी पूछें",
+  "assistant.welcome": "स्वागत है। मैं दिशा-निर्देश, कतार समय, भोजन विकल्प, एक्सेसिबिलिटी और खोया-पाया जानकारी में मदद कर सकता हूँ।",
+  "assistant.inputPlaceholder": "पूछें: सबसे पास का वॉशरूम कहाँ है? सबसे छोटी कतार कहाँ है?",
+  "assistant.send": "भेजें ➤",
+  "assistant.saveKey": "API Key सेव करें",
+  "assistant.keySaved": "API key सेव हो गई",
+  "assistant.quick.shortestQueue": "सबसे छोटी फूड कतार?",
+  "assistant.quick.bestExit": "सबसे अच्छा एग्ज़िट गेट?",
+  "assistant.quick.firstAid": "फर्स्ट एड कहाँ है?",
+  "assistant.quick.parking": "पार्किंग ज़ोन?",
+  "assistant.quickPrompt.shortestQueue": "अभी सबसे छोटी फूड कतार कहाँ है?",
+  "assistant.quickPrompt.bestExit": "बाहर निकलने के लिए सबसे कम भीड़ वाला गेट कौन सा है?",
+  "assistant.quickPrompt.firstAid": "फर्स्ट एड स्टेशन कहाँ है?",
+  "assistant.quickPrompt.parking": "क्या पार्किंग उपलब्ध है? सबसे नज़दीकी ज़ोन कौन सा है?",
+  "assistant.typing": "सोच रहा हूँ...",
+  "assistant.noKey": "Gemini API key नहीं मिली। पहले key सेव करें।",
+  "assistant.retry": "माफ़ कीजिए, अभी जवाब नहीं मिल पाया। फिर से कोशिश करें।",
+  "assistant.unavailable": "सेवा उपलब्ध नहीं है। कृपया कनेक्टिविटी जाँचकर दोबारा कोशिश करें।"
+}

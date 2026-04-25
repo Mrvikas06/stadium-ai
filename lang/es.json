@@ -1,0 +1,23 @@
+{
+  "nav.dashboard": "Panel",
+  "nav.navigate": "Navegar",
+  "nav.assistant": "Asistente",
+  "assistant.title": "ASISTENTE DEL ESTADIO — Pregunta lo que necesites",
+  "assistant.welcome": "Bienvenido. Puedo ayudarte con rutas, tiempos de fila, opciones de comida, accesibilidad y objetos perdidos.",
+  "assistant.inputPlaceholder": "Pregunta: ¿Dónde está el baño más cercano? ¿Cuál es la fila más corta?",
+  "assistant.send": "Enviar ➤",
+  "assistant.saveKey": "Guardar API Key",
+  "assistant.keySaved": "API key guardada",
+  "assistant.quick.shortestQueue": "¿Fila de comida más corta?",
+  "assistant.quick.bestExit": "¿Mejor puerta de salida?",
+  "assistant.quick.firstAid": "¿Dónde está primeros auxilios?",
+  "assistant.quick.parking": "¿Zonas de parking?",
+  "assistant.quickPrompt.shortestQueue": "¿Cuál es la fila de comida más corta ahora?",
+  "assistant.quickPrompt.bestExit": "¿Qué puerta tiene menos gente para salir?",
+  "assistant.quickPrompt.firstAid": "¿Dónde está la estación de primeros auxilios?",
+  "assistant.quickPrompt.parking": "¿Hay parking disponible? ¿Qué zona está más cerca?",
+  "assistant.typing": "Pensando...",
+  "assistant.noKey": "Falta la Gemini API key. Guárdala primero.",
+  "assistant.retry": "No pude obtener respuesta. Inténtalo de nuevo.",
+  "assistant.unavailable": "Servicio no disponible. Revisa tu conexión e inténtalo otra vez."
+}

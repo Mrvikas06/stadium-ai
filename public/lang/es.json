@@ -1,0 +1,18 @@
+{
+  "dashboard": "Panel",
+  "navigate": "Navegar",
+  "assistant": "Asistente",
+  "title": "Centro de Operaciones del Estadio",
+  "subtitle": "Inteligencia del recinto con IA",
+  "live": "En vivo",
+  "densityMap": "Mapa en vivo de densidad de público",
+  "occupancy": "Ocupación del recinto",
+  "queueTimes": "Tiempos de fila en tiempo real",
+  "alerts": "Alertas activas",
+  "routePlanner": "Planificador de ruta inteligente",
+  "chatTitle": "Asistente del Estadio",
+  "chatPlaceholder": "Pregunta: baño más cercano, salida más rápida, fila más corta...",
+  "send": "Enviar",
+  "saveKey": "Guardar Gemini Key",
+  "typing": "Pensando..."
+}
