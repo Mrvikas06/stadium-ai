@@ -2,7 +2,9 @@
 
 **🌍 Live Demo:** [https://stadium-sync-734405091711.us-central1.run.app/](https://stadium-sync-734405091711.us-central1.run.app/)
 
-A high-end, real-time AI dashboard for optimizing fan journeys, crowd density, and safety inside a stadium. Features a sleek, modern Light Theme UI built with React, Vite, and Google Gemini API integration.
+> 📱 **Note:** This project is specifically designed as a **Mobile Web Application**. For the best experience on desktop, please enable "Mobile View" (Ctrl+Shift+M or Cmd+Opt+M) in your browser's Developer Tools.
+
+A high-end, real-time AI mobile application for optimizing fan journeys, crowd density, and safety inside a stadium. Features a sleek, native-feeling Light Theme UI built with React, Vite, and Google Gemini API integration.
 
 ## ✨ Features
 
